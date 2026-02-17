@@ -40,8 +40,6 @@ A beautiful, modern, and fully responsive **Login & Signup UI** built with Flutt
 
 </div>
 
-> **Note:** Replace the placeholder images in the `assets/` folder with your own illustrations!
-
 ---
 
 ## 🚀 Installation
@@ -153,5 +151,6 @@ Features:
 ### ⭐ Star this repository if you found it useful!
 
 Made with ❤️ and Flutter
+Stay Safe & Stay Healthy..
 
 </div>
